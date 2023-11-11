@@ -20,7 +20,7 @@
 
 /**
  * struct fmt - Struct op
- * by Mark and Kero
+ * by Mark and Keroles
  *
  * @fmt: The format.
  * @fn: The function associated.
