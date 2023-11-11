@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- * by Mark and Kero
+ * by Mark and Keroles
  *
  * Return: Always 0
  */
