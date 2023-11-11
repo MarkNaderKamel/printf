@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * by Mark and Kero
+ * by Mark and Keroles
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
